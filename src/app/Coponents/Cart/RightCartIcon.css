@@ -1,0 +1,12 @@
+.cart-icon {
+  padding: 2px;
+  color: rgba(255, 0, 115, 0.829);
+  font-size: 25px;
+  text-align: center;
+  list-style: none;
+}
+sup{
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+}

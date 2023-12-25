@@ -1,0 +1,24 @@
+.navbar {
+    background-color:  rgb(178, 178, 240);
+    
+
+}
+.ms-auto{
+    margin-right: 25%;
+}
+.nav-link{
+    color: black; 
+    font-size: large;
+    font-weight: bolder;
+}
+.navbar-brand{
+    margin-left: 30%;
+    color: black;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+nav-link:hover{
+    color: darkred;
+}

@@ -1,0 +1,31 @@
+.img-container {
+  height: 400px;
+  margin: 0 auto;
+  padding: 20px 0;
+  background: #fafcfc;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
+
+.single-img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  appearance: none;
+  margin: 0;
+}
+.btan{
+  margin-top: 5%;
+  margin-left: 20%;
+  color: blue;
+}
+
+input[type="number"] {
+  appearance: textfield;
+  text-align: center;
+  width: auto;
+  background-color: rgb(231, 231, 108);
+}
